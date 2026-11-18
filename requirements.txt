@@ -1,0 +1,8 @@
+streamlit
+langchain-core
+langchain-huggingface
+sentence-transformers
+langchain-openai
+langchain-anthropic
+numpy
+pandas

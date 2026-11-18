@@ -1,0 +1,6 @@
+{
+  "small_talk": ["hi there", "hello!", "good morning", "thanks a lot", "tell me a joke"],
+  "timetable": ["when is my next class?", "what's on my schedule tomorrow?", "add a lab on Friday", "am I free on Monday?"],
+  "coding_help": ["why is my python code throwing an error?", "write a function to reverse a list", "explain this stack trace", "how do I use pandas groupby?"],
+  "course_qa": ["explain backpropagation", "what is TF-IDF?", "difference between precision and recall", "what is a SQL injection attack?"]
+}
